@@ -418,7 +418,7 @@ repodata  tree-1.6.0-10.el7.x86_64.rpm
 修改配置文件修改路径
 yum repolist all
 ```
-
+## 确定仓库路径的方法是查看repodata目录的位置的上一级
 
 
 

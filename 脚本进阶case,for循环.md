@@ -1,3 +1,8 @@
+---
+title: 脚本进阶case、for循环
+tags: linux
+categories: linux
+---
 ## 条件判断：case语句和for循环
 ---
 title: case条件判断

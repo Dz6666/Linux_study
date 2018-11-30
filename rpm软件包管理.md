@@ -95,7 +95,7 @@ categories: linux
 
 &ensp;&ensp;rpm： Redhat Package Manager RPM  Package Manager
 
-## `包命名
+## `包命名`
 
 源代码：name-VERSION.tar.gz|bz2|xz 
 
@@ -280,7 +280,7 @@ CentOS系统上使用rpm命令管理程序包：(红帽系列版本才可以用�
 &ensp;&ensp;rpm -ivh PACKAGE_FILE ...
 
 
-##`rpm包安装`
+## `rpm包安装`
 
 [install-options] 安装相关的辅助选项 
 
@@ -478,7 +478,7 @@ rpm -qip&ensp;rpm包名&ensp;&ensp;查询未安装的包的位置
 
 rpm -ql &ensp;rpm包名&ensp;&ensp;查询已安装的安装包的位置
 
-rpm -v &ensp;&ensp校验安装包
+rpm -v &ensp;&ensp;校验安装包
 
 rpm -qpl &ensp;&ensp;包名所在的绝对路径包名
 
